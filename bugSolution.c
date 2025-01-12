@@ -1,0 +1,1 @@
+int main() { int x = 10; int *ptr = &x; *ptr = 20; printf("%d\n", x); //added a newline character \n for better output return 0;} 
